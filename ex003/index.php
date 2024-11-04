@@ -14,7 +14,8 @@
     const PAIS = "Brazil"; // Constante
 
     $nome = "João"; // Variavel
-    $sobrenome = "Vitor"; // Variavel
+    $sobrenome = "Vitor"; // 
+    $idade = 22; // Variavel
 
     echo "Muito prazer, $nome $sobrenome! Você mora no " . PAIS;
     ?>
